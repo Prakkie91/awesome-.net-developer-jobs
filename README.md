@@ -16,9 +16,7 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/chwihdihlaepndnkqagr.webp" width="24" height="24" alt="Angi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angi](https://jobo.world/company/Angi)
 
-* **[Engineering Manager, Developer Experience](https://job-boards.greenhouse.io/angi/jobs/8039204002)** — _n/a_ _(posted 2025-06-18)_
 * **[Engineering Manager, Developer Experience](https://job-boards.greenhouse.io/angi/jobs/8022912002)** — _n/a_ _(posted 2025-06-18)_
-* **[Senior Infrastructure Engineer, Enterprise IT](https://job-boards.greenhouse.io/angi/jobs/8039146002)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cstaejbxn8uzfnov24zv.webp" width="24" height="24" alt="Authentic8 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Authentic8](https://jobo.world/company/Authentic8)
 
@@ -96,10 +94,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Senior Software Engineer II](https://job-boards.greenhouse.io/dbtlabsinc/jobs/4565085005)** — _n/a_ _(posted 2025-06-05)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kmkx39mgdprsyv38qfhb.webp" width="24" height="24" alt="Devoted Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Devoted Health](https://jobo.world/company/Devoted-Health)
-
-* **[Principal Software Engineer](https://devoted.wd1.myworkdayjobs.com/devoted/job/Remote-USA/Principal-Software-Engineer_R2430)** — _n/a_ _(posted 2025-06-11)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fzlotl53009yjfbklmgi.webp" width="24" height="24" alt="DevRev logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DevRev](https://jobo.world/company/DevRev)
 
 * **[Forward Deployed Engineer - Architect](https://job-boards.greenhouse.io/devrev/jobs/5554325004)** — _n/a_ _(posted 2025-05-31)_
@@ -153,6 +147,10 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/unzryaz9kvxaq6csurkt.webp" width="24" height="24" alt="Hugging Face logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hugging Face](https://jobo.world/company/Hugging-Face)
 
 * **[Developer Advocate Engineer, Hub/Enterprise - US Remote](https://apply.workable.com/huggingface/j/4C12FB7880/)** — _n/a_ _(posted 2025-05-27)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
+
+* **[Senior Software Engineer,  Backend (Financial Engines)](https://job-boards.greenhouse.io/humaninterest/jobs/6430613)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
@@ -208,6 +206,14 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
 
 * **[Senior Software Engineer - Task Runtime](https://job-boards.greenhouse.io/motional/jobs/6295289003)** — ¤153,000 – ¤207,000 USD _(posted 2025-04-15)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ovwpxfleb5jpmgcmj94g.webp" width="24" height="24" alt="Parallel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Parallel](https://jobo.world/company/Parallel)
+
+* **[Senior Software Engineer](https://boards.greenhouse.io/parallellearning/jobs/4520706005)** — _n/a_ _(posted 2025-03-14)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtpksjlzjjnextpxet98.webp" width="24" height="24" alt="PlayStation Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PlayStation Global](https://jobo.world/company/PlayStation-Global)
+
+* **[Senior Engineer – Build System](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5493586004)** — _n/a_ _(posted 2025-06-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
 
@@ -302,4 +308,4 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-06-20_
+_Updated automatically — 2025-06-21_
