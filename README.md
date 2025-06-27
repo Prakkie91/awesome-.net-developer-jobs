@@ -22,6 +22,10 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Senior Full Stack Engineer](https://boards.greenhouse.io/calendly/jobs/7967935002)** — _n/a_ _(posted 2025-04-23)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
+
+* **[Software Engineer](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Software-Engineer_JR10397-1)** — _n/a_ _(posted 2025-06-20)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
 
 * **[Cloud - Azure Infra Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Cloud---Azure-Infra-Engineer_JR7798)** — _n/a_ _(posted 2025-05-12)_
@@ -61,13 +65,15 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Principal Site Reliability Engineer](https://job-boards.greenhouse.io/cribl/jobs/5516726004)** — _n/a_ _(posted 2025-05-30)_
 * **[Software Engineer, Cribl AI](https://job-boards.greenhouse.io/cribl/jobs/5543303004)** — ¤200,000 – ¤275,000 USD _(posted 2025-05-17)_
 * **[Staff Software Engineer, Stream Control Plane](https://job-boards.greenhouse.io/cribl/jobs/5527219004)** — _n/a_ _(posted 2025-04-26)_
-* **[Senior Performance Engineer](https://job-boards.greenhouse.io/cribl/jobs/5498039004)** — ¤165,000 – ¤195,000 USD _(posted 2025-04-15)_
 * **[Sr Staff Software Engineer, Stream Integrations](https://job-boards.greenhouse.io/cribl/jobs/5489714004)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Director of Engineering, Sensor Development Tooling (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Director-of-Engineering--Sensor-Development-Tooling--Remote-_R23673)** — _n/a_ _(posted 2025-06-26)_
+* **[Sr. Software Engineer - Release (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer---Release--Remote-_R23659)** — _n/a_ _(posted 2025-06-26)_
+* **[Sr. Engineering Manager-Exposure Management(Network Vulnerability Detection)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Engineering-Manager-Exposure-Management-Network-Vulnerability-Detection-_R23682)** — _n/a_ _(posted 2025-06-26)_
+* **[Engineer III, Cloud - Graph Systems (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III--Cloud---Graph-Systems--Remote-_R23674)** — _n/a_ _(posted 2025-06-26)_
 * **[Sr. Cloud Engineer - Charlotte AI (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-VA/Sr-Cloud-Engineer---Charlotte-AI--Remote-_R23632)** — _n/a_ _(posted 2025-06-24)_
-* **[Continuous Improvement Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Continuous-Improvement-Engineer--Remote-_R23611)** — _n/a_ _(posted 2025-06-23)_
 * **[Software Engineer III - Sensor IDP (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Software-Engineer-III---Sensor-IDP--Remote-_R23505-1)** — _n/a_ _(posted 2025-06-18)_
 * **[Engineering Manager, Data Services (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineering-Manager--Data-Services--Remote-_R23519)** — _n/a_ _(posted 2025-06-17)_
 * **[Principal Engineer – Engineering Service Management (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Principal-Engineer---Engineering-Service-Management--Remote-_R23376)** — _n/a_ _(posted 2025-06-03)_
@@ -150,10 +156,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Developer Advocate Engineer, Hub/Enterprise - US Remote](https://apply.workable.com/huggingface/j/4C12FB7880/)** — _n/a_ _(posted 2025-05-27)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
-
-* **[Senior Software Engineer,  Backend (Financial Engines)](https://job-boards.greenhouse.io/humaninterest/jobs/6430613)** — _n/a_ _(posted 2025-04-15)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ojqrzbjpfmbgsm9qtfzl.webp" width="24" height="24" alt="IDMWORKS logo" style="vertical-align:middle"/>&nbsp;&nbsp;[IDMWORKS](https://jobo.world/company/IDMWORKS)
 
 * **[Microsoft Engineer - Senior](https://jobs.lever.co/idmworks/2744deee-064d-4f4e-aa72-7e816d8ab5f9)** — _n/a_ _(posted 2025-04-15)_
@@ -209,10 +211,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Senior Software Engineer - Task Runtime](https://job-boards.greenhouse.io/motional/jobs/6295289003)** — ¤153,000 – ¤207,000 USD _(posted 2025-04-15)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ovwpxfleb5jpmgcmj94g.webp" width="24" height="24" alt="Parallel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Parallel](https://jobo.world/company/Parallel)
-
-* **[Senior Software Engineer](https://boards.greenhouse.io/parallellearning/jobs/4520706005)** — _n/a_ _(posted 2025-03-14)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
 
 * **[Developer Support Engineer ](https://jobs.ashbyhq.com/privy/ae753507-3c0f-40f5-9779-0d6035dee941)** — _n/a_ _(posted 2025-04-29)_
@@ -220,6 +218,10 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ensgjxchya3m8sf9hyym.webp" width="24" height="24" alt="ReadMe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ReadMe](https://jobo.world/company/ReadMe)
 
 * **[Full Stack Engineer](https://jobs.ashbyhq.com/readme/d69eac6a-5318-4ba7-b904-ca90c213c9de)** — _n/a_ _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zznxo2xrsb1vzlwmdok0.webp" width="24" height="24" alt="Red Cell Partners logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Red Cell Partners](https://jobo.world/company/RedCellPartners)
+
+* **[Senior Software Engineer (Full Stack)](https://job-boards.greenhouse.io/redcellpartners/jobs/4773651007)** — _n/a_ _(posted 2025-06-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="Republic Services logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Republic Services](https://jobo.world/company/Republic-Services)
 
@@ -230,10 +232,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Cyber Security Engineer IV](https://job-boards.greenhouse.io/regscale/jobs/4729920007)** — _n/a_ _(posted 2025-05-09)_
 * **[Cloud &amp; DevOps Engineer](https://job-boards.greenhouse.io/regscale/jobs/4726097007)** — _n/a_ _(posted 2025-05-06)_
 * **[Principal Angular Developer](https://job-boards.greenhouse.io/regscale/jobs/4726043007)** — _n/a_ _(posted 2025-05-06)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vunepkbbyb0nzxuzmazf.webp" width="24" height="24" alt="Rogo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rogo](https://jobo.world/company/Rogo)
-
-* **[Forward Deploy Engineer](https://jobs.ashbyhq.com/rogo/180e1eb4-c1a9-4b36-a48e-c057221a2d6c)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u3ko06mvu5nvizavxsix.webp" width="24" height="24" alt="RxSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RxSense](https://jobo.world/company/RxSense)
 
@@ -269,7 +267,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nmpjang8hd7j1tvecltw.webp" width="24" height="24" alt="The Zebra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[The Zebra](https://jobo.world/company/The-Zebra)
 
 * **[Senior Software Engineer - Fullstack (Remote, United States) ](https://jobs.ashbyhq.com%2Fthe%2520zebra%2F8d55edd8-466d-40cc-a64d-63f7c5e4616e)** — _n/a_ _(posted 2025-05-17)_
-* **[Software Engineer II - Fullstack (Remote, United States)](https://jobs.ashbyhq.com%2Fthe%2520zebra%2F9912e93c-93cf-4df4-8a5b-bb634eb54361)** — _n/a_ _(posted 2025-05-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpebiagnv3yocpxflsoy.webp" width="24" height="24" alt="Vanta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vanta](https://jobo.world/company/Vanta)
 
@@ -296,4 +293,4 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-06-26_
+_Updated automatically — 2025-06-27_
