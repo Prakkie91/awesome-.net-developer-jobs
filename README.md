@@ -164,10 +164,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Staff/Senior Staff Software Engineer](https://jobs.ashbyhq.com/ironcladhq/c4b2241e-4b3b-40f1-953f-b997a8c55934)** — ¤190,000 – ¤240,000 USD _(posted 2025-03-12)_
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/ironcladhq/b640b3f3-4dd4-47eb-ab3c-1911535e3573)** — ¤160,000 – ¤175,000 USD _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
-
-* **[Software Engineer I (San Francisco)](https://jobs.ashbyhq.com/jerry/59d16ded-982e-40bf-a917-a4afe99594af)** — _n/a_ _(posted 2025-06-24)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ratwa3kr7uy5rlny0zky.webp" width="24" height="24" alt="Jobber logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jobber](https://jobo.world/company/Jobber)
 
 * **[Staff Software Engineer](https://job-boards.greenhouse.io/jobber/jobs/7973786002)** — _n/a_ _(posted 2025-04-26)_
@@ -205,6 +201,10 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
 
 * **[Senior Software Engineer - Task Runtime](https://job-boards.greenhouse.io/motional/jobs/6295289003)** — ¤153,000 – ¤207,000 USD _(posted 2025-04-15)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ius1mxcu5iwevowrje3y.webp" width="24" height="24" alt="Paytient logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Paytient](https://jobo.world/company/Paytient)
+
+* **[Sr Platform Engineer](https://job-boards.greenhouse.io/paytient/jobs/4775601007)** — _n/a_ _(posted 2025-06-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ouaczxlwlkcqf2eimdw2.webp" width="24" height="24" alt="PointClickCare logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PointClickCare](https://jobo.world/company/PointClickCare)
 
@@ -293,4 +293,4 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-06-28_
+_Updated automatically — 2025-06-29_
