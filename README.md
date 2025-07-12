@@ -50,6 +50,7 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xauolcu0ycnihp0pf12l.webp" width="24" height="24" alt="Coder logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coder](https://jobo.world/company/Coder)
 
+* **[Software Engineer (VS Code Contractor)](https://jobs.ashbyhq.com/coder/f0ee6cc3-1b81-44de-ab8f-141accf66d82)** — _n/a_ _(posted 2025-07-11)_
 * **[Senior Software Engineer (Back-end)](https://jobs.ashbyhq.com/coder/caade16c-90a2-402f-8eb9-4c8d434ecf84)** — ¤127,000 – ¤218,000 USD _(posted 2025-07-10)_
 * **[Senior Software Engineer (AI Tools)](https://jobs.ashbyhq.com/coder/99358b53-e235-421e-8315-4ed73cbd1f03)** — ¤127,000 – ¤218,000 USD _(posted 2025-06-24)_
 * **[Product Operations Engineer](https://jobs.ashbyhq.com/coder/a21249ca-f8c1-4123-a68f-23e309bc950e)** — ¤113,000 – ¤194,000 USD _(posted 2025-05-07)_
@@ -160,7 +161,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Senior Desktop Software Engineer (C# / .NET)](https://apply.workable.com/keepersecurity/j/CA871D73FD/)** — _n/a_ _(posted 2025-06-11)_
 * **[Senior Software Engineer, Forcefield (R&D)](https://apply.workable.com/keepersecurity/j/0337340445/)** — _n/a_ _(posted 2025-06-09)_
-* **[Senior Software Engineer, KeeperChat (MAUI)](https://apply.workable.com/keepersecurity/j/4A16A293D7/)** — _n/a_ _(posted 2025-04-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ne6u5nqv8gxtng8t4wfz.webp" width="24" height="24" alt="Later logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Later](https://jobo.world/company/Later)
 
@@ -234,6 +234,10 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Director, Software Engineering](https://job-boards.greenhouse.io/rxsense/jobs/4573652005)** — _n/a_ _(posted 2025-06-06)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/g2xzgj0faw190v6ckrip.webp" width="24" height="24" alt="Sagent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sagent](https://jobo.world/company/Sagent)
+
+* **[Software Engineer - .NET](https://job-boards.greenhouse.io/sagent/jobs/5585766004)** — _n/a_ _(posted 2025-07-11)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
 * **[Software Engineer](https://jobs.ashbyhq.com/sgnlai/3931b0e3-e29b-4472-9255-1783cd3b4364)** — _n/a_ _(posted 2025-03-12)_
@@ -255,7 +259,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lifhpwpjwz9hxhi1xkq0.webp" width="24" height="24" alt="StrongDM logo" style="vertical-align:middle"/>&nbsp;&nbsp;[StrongDM](https://jobo.world/company/StrongDM)
 
-* **[Full Stack Engineer](https://jobs.lever.co/strongdm/e65c80b9-1391-4582-8a8f-b6f629d90ddf)** — _n/a_ _(posted 2025-05-23)_
 * **[Software Engineer](https://jobs.lever.co/strongdm/c0b4e466-beb4-46e3-9d91-05066bd15e49)** — _n/a_ _(posted 2025-05-22)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ow6rhitoxq427irmxmdy.webp" width="24" height="24" alt="Symbotic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Symbotic](https://jobo.world/company/symbotic)
@@ -305,4 +308,4 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
 
 ---
-_Updated automatically — 2025-07-11_
+_Updated automatically — 2025-07-12_
