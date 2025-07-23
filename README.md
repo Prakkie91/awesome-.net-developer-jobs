@@ -10,18 +10,10 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Senior Developer Relations Engineer](https://jobs.ashbyhq.com/0g/1e6c2970-6acd-451b-a227-42163d02dc29)** — _n/a_ _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wmjvoqj8pj4ll1g3ecls.webp" width="24" height="24" alt="Adobe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Adobe](https://jobo.world/company/Adobe)
-
-* **[Sr Developer Relations Engineer, Frame.io](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Remote-California/Sr-Developer-Relations-Engineer--Frameio_R156562)** — _n/a_ _(posted 2025-06-25)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bkz2yoeagkblnit7do7g.webp" width="24" height="24" alt="AeroVect logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AeroVect](https://jobo.world/company/AeroVect)
 
 * **[Software Engineer, Platform](https://jobs.ashbyhq.com/aerovect/041ae29d-2731-4c7c-8f3f-7974f0ac01dc)** — _n/a_ _(posted 2025-07-16)_
 * **[Software Engineer, Localization, Calibration & Mapping](https://jobs.ashbyhq.com/aerovect/73a42f00-af59-4439-8ff5-531b7c355745)** — _n/a_ _(posted 2025-07-16)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
-
-* **[Senior Software Engineer, Backend (Batch Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/6618078003)** — _n/a_ _(posted 2025-07-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jxzk52qwwc00ysw35zd8.webp" width="24" height="24" alt="Airtable logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Airtable](https://jobo.world/company/Airtable)
 
@@ -30,10 +22,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tuwtrdzblludpzeyje1f.webp" width="24" height="24" alt="Alchemy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alchemy](https://jobo.world/company/Alchemy)
 
 * **[Principal Software Engineer](https://job-boards.greenhouse.io/alchemy/jobs/4326841005)** — _n/a_ _(posted 2025-05-09)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kcq8nfjtqwqarugh1srl.webp" width="24" height="24" alt="Angel Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angel Studios](https://jobo.world/company/Angel-Studios)
-
-* **[Senior Software Engineer (Roku Developer)](https://jobs.lever.co/angel/577a9b1a-489d-4ea9-b844-01839b3225ba)** — _n/a_ _(posted 2025-06-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
 
@@ -57,10 +45,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Site Reliability Engineer - Core C++ Team](https://job-boards.greenhouse.io/clickhouse/jobs/5561985004)** — _n/a_ _(posted 2025-06-12)_
 * **[Core Software Engineer (C++) - Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5494136004)** — _n/a_ _(posted 2025-04-04)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xauolcu0ycnihp0pf12l.webp" width="24" height="24" alt="Coder logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coder](https://jobo.world/company/Coder)
-
-* **[Senior Software Engineer (AI Tools)](https://jobs.ashbyhq.com/coder/99358b53-e235-421e-8315-4ed73cbd1f03)** — ¤127,000 – ¤218,000 USD _(posted 2025-06-24)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/waipgepcsalq2dll3eq1.webp" width="24" height="24" alt="Cohere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cohere](https://jobo.world/company/Cohere)
 
 * **[Member of Technical Staff, Model Serving Infrastructure](https://jobs.ashbyhq.com/cohere/df260e46-205e-45ac-9c31-43094ee9c3db)** — _n/a_ _(posted 2025-03-12)_
@@ -68,10 +52,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0szloryju810smkfxtc.webp" width="24" height="24" alt="Common logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Common](https://jobo.world/company/Common)
 
 * **[Senior Software Developer - US Based Remote Opportunity](https://apply.workable.com/commonapp/j/1CFCAB075F/)** — ¤1,500 USD _(posted 2025-05-23)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p51wpz1xuhr53cmc6hnh.webp" width="24" height="24" alt="Confluent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Confluent](https://jobo.world/company/Confluent)
-
-* **[Software Engineer - WarpStream](https://jobs.ashbyhq.com/confluent/47920ccd-db54-4ed4-a865-70857e865fff)** — ¤230,800 – ¤271,200 USD _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
@@ -99,6 +79,19 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Lead Software Engineer](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Lead-Software-Engineer_JR11595-1)** — _n/a_ _(posted 2025-06-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nuj1aprpm0ufo9wwlehb.webp" width="24" height="24" alt="eBay logo" style="vertical-align:middle"/>&nbsp;&nbsp;[eBay](https://jobo.world/company/E-Bay)
+
+* **[Senior Software Engineer, CLIP](https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-United-States/Senior-Software-Engineer--CLIP_R0067187-1)** — _n/a_ _(posted 2025-04-24)_
+* **[Sr. SWE, Order Management](https://ebay.wd5.myworkdayjobs.com/apply/job/Remote-Texas/Sr-SWE--Order-Management_R0066135-1)** — _n/a_ _(posted 2025-02-25)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lqw8d7dsbdz83ashcjls.webp" width="24" height="24" alt="Endpoint Clinical logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Endpoint Clinical](https://jobo.world/company/Endpoint-Clinical)
+
+* **[Senior Software Developer, Product](https://jobs.lever.co/endpointclinical/c89da1cb-a04f-4061-9b2f-da8f9c10a32d)** — _n/a_ _(posted 2024-07-26)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
+
+* **[Senior Software Engineer, Wireless Networking and Streaming ](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fad398eb6-cc22-448a-a692-c1c116469c3d)** — ¤149,600 – ¤187,000 USD _(posted 2025-07-22)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ivnsknzbhcbrzay54qdm.webp" width="24" height="24" alt="Foundation Risk Partners logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foundation Risk Partners](https://jobo.world/company/Foundation-Risk-Partners)
 
 * **[Senior Software Engineer- MSI](https://baldwinriskpartners.wd1.myworkdayjobs.com/brp/job/Remote-US/Senior-Software-Engineer--MSI_JR107525-1)** — _n/a_ _(posted 2025-03-28)_
@@ -111,13 +104,13 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Senior Software Engineer, Funding](https://jobs.lever.co/goodleap/60626a2a-7641-4d0c-ac2e-662d2264ddee)** — _n/a_ _(posted 2025-06-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p5mrogl6k08ucmfnxnkq.webp" width="24" height="24" alt="Groq logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Groq](https://jobo.world/company/Groq)
+
+* **[Staff Software Engineer, Speculative Decoding](https://job-boards.greenhouse.io/groq/jobs/6392618003)** — _n/a_ _(posted 2025-05-21)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
 
 * **[Sr Full Stack Software Engineer](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Sr-Full-Stack-Software-Engineer_R-379942)** — _n/a_ _(posted 2025-07-18)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ccz9dhecdmrekaje96ee.webp" width="24" height="24" alt="iRhythm Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[iRhythm Technologies](https://jobo.world/company/iRhythm-Technologies)
-
-* **[Lead Test Automation Engineer (SDET)](https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/Remote---US/Lead-Test-Automation-Engineer--SDET-_JR10)** — _n/a_ _(posted 2025-06-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
@@ -154,16 +147,22 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
 
+* **[Senior Motion Planning Engineer](https://job-boards.greenhouse.io/motional/jobs/6655607003)** — _n/a_ _(posted 2025-07-22)_
 * **[Senior Software Engineer, Roboticist](https://job-boards.greenhouse.io/motional/jobs/6563270003)** — _n/a_ _(posted 2025-05-03)_
 * **[Senior Motion Planning Engineer, Dev Tooling](https://job-boards.greenhouse.io/motional/jobs/6521423003)** — _n/a_ _(posted 2025-04-17)_
 * **[Senior Motion Planning Engineer, Dev Tooling](https://job-boards.greenhouse.io/motional/jobs/6521424003)** — _n/a_ _(posted 2025-04-17)_
 * **[Senior Software Engineer - Task Runtime](https://job-boards.greenhouse.io/motional/jobs/6295289003)** — ¤153,000 – ¤207,000 USD _(posted 2025-04-15)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zwubunmuzrhumn3mx2us.webp" width="24" height="24" alt="Motive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motive](https://jobo.world/company/Motive)
+
+* **[Staff Software Engineer](https://job-boards.greenhouse.io/gomotive/jobs/7863953002)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
 
 * **[Sync Software Engineer](https://job-boards.greenhouse.io/mozilla/jobs/7053046)** — _n/a_ _(posted 2025-07-08)_
 * **[Senior Software Engineer - Mobile Android](https://job-boards.greenhouse.io/mozilla/jobs/7018802)** — _n/a_ _(posted 2025-07-08)_
 * **[Staff Software Engineer - Mobile Android](https://job-boards.greenhouse.io/mozilla/jobs/6964813)** — _n/a_ _(posted 2025-06-10)_
+* **[Developer Relations Lead, New Products](https://job-boards.greenhouse.io/mozilla/jobs/6852312)** — _n/a_ _(posted 2025-05-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fmgidmielyywnjw4ihyz.webp" width="24" height="24" alt="Muon Space logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Muon Space](https://jobo.world/company/MuonSpace)
 
@@ -180,6 +179,11 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Video Software Engineer (Mid - Staff Level)](https://boards.greenhouse.io/mux/jobs/7627235002)** — _n/a_ _(posted 2025-03-14)_
 * **[Software Engineer - Distributed Systems (Mid-Staff Level)](https://boards.greenhouse.io/mux/jobs/7431906002)** — _n/a_ _(posted 2025-03-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ipqjggsa4adm24tegtgj.webp" width="24" height="24" alt="MyFitnessPal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[MyFitnessPal](https://jobo.world/company/MyFitnessPal)
+
+* **[Software Engineer III, iOS - Ads](https://job-boards.greenhouse.io/myfitnesspal/jobs/6960796)** — _n/a_ _(posted 2025-06-07)_
+* **[Staff Software Engineer, iOS - Ads](https://job-boards.greenhouse.io/myfitnesspal/jobs/6928322)** — _n/a_ _(posted 2025-06-05)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hm2rl7tsorbxxjehvpou.webp" width="24" height="24" alt="Mysten Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mysten Labs](https://jobo.world/company/Mysten-Labs)
 
 * **[Software Engineer, Interop](https://jobs.ashbyhq.com/mystenlabs/aae62c8b-2cf5-497f-af02-1e814484a265)** — ¤200,000 – ¤225,000 USD _(posted 2025-06-21)_
@@ -193,11 +197,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Software Engineer, CUDA-Q Libraries](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Software-Engineer--CUDA-Q-Libraries_JR1999918)** — _n/a_ _(posted 2025-07-11)_
 * **[Senior Software Systems Engineer - Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Senior-Software-Systems-Engineer---Autonomous-Vehicles_JR1999530)** — _n/a_ _(posted 2025-07-03)_
-* **[Senior System Software Engineer - Dynamo and Triton Inference Server](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Senior-System-Software-Engineer---Dynamo-and-Triton-Inference-Server_JR1998435)** — _n/a_ _(posted 2025-06-06)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vcxvyg0udy2sdtvqajhr.webp" width="24" height="24" alt="OneSignal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OneSignal](https://jobo.world/company/OneSignal)
-
-* **[Senior Software Engineer, Core Services (Backend)](https://job-boards.greenhouse.io/onesignal/jobs/4584880006)** — _n/a_ _(posted 2025-07-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d2yjlpuizwrhcwryx5uj.webp" width="24" height="24" alt="Panopto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Panopto](https://jobo.world/company/Panopto)
 
@@ -225,9 +224,8 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
 
-* **[Sr. Robotics Engineer, Mapping & Localization](https://jobs.ashbyhq.com/serverobotics/6f257ca7-93f4-4f2f-a80a-40ee3bc04b56)** — ¤119,000 – ¤160,000 USD _(posted 2025-07-10)_
+* **[Lead Software Engineer, Navigation and Behavior Planning](https://jobs.ashbyhq.com/serverobotics/ac5f55e2-ce4d-4aec-ac98-d2ca16484f8f)** — ¤150,000 – ¤200,000 USD _(posted 2025-07-22)_
 * **[Sr. Sustaining Firmware Engineer](https://jobs.ashbyhq.com/serverobotics/3e887bca-5664-4102-96ff-289b97a8695e)** — ¤140,000 – ¤170,000 USD _(posted 2025-06-07)_
-* **[Software Implementation Engineer, Market Expansion](https://jobs.ashbyhq.com/serverobotics/750b3216-693b-4663-9763-5f622773f4a9)** — ¤130,000 – ¤175,000 USD _(posted 2025-06-04)_
 * **[Software Engineer, Build & Developer Tools](https://jobs.ashbyhq.com/serverobotics/fae11e4e-f9f6-4cae-8400-fe7235811971)** — ¤130,000 – ¤170,000 USD _(posted 2025-03-12)_
 * **[Senior Software Engineer, Mapping and Routing](https://jobs.ashbyhq.com/serverobotics/1526ae86-70d7-4c6a-818a-8143c5cdbbe2)** — ¤150,000 – ¤200,000 USD _(posted 2025-03-12)_
 * **[Mapping & Localization Engineer](https://jobs.ashbyhq.com/serverobotics/f3fb3f60-636f-4f02-b9f3-b8540e19ee2a)** — ¤119,000 – ¤160,000 USD _(posted 2025-03-12)_
@@ -242,12 +240,12 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
-* **[Staff Software Engineer](https://jobs.ashbyhq.com/sgnlai/0dd34fcd-f0c7-4b78-b31d-f8a6ebf064a0)** — _n/a_ _(posted 2025-03-12)_
 * **[Software Engineer](https://jobs.ashbyhq.com/sgnlai/3931b0e3-e29b-4472-9255-1783cd3b4364)** — _n/a_ _(posted 2025-03-12)_
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/sgnlai/fe22a401-6b22-497d-b2ec-49056aac1563)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qzska8ypqmqsevnfvhod.webp" width="24" height="24" alt="Standard Bots logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Standard Bots](https://jobo.world/company/Standard-Bots)
 
+* **[Senior Software Engineer, Motion Planning](https://jobs.ashbyhq.com/standardbots/c6cd7989-4db6-404f-aa69-e3fb4db74d47)** — ¤170,000 – ¤220,000 USD _(posted 2025-07-22)_
 * **[Senior Software Engineer, Full-Stack](https://jobs.ashbyhq.com/standardbots/a66546ae-13ed-4176-8509-4f82aca66c03)** — ¤170,000 – ¤220,000 USD _(posted 2025-06-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lifhpwpjwz9hxhi1xkq0.webp" width="24" height="24" alt="StrongDM logo" style="vertical-align:middle"/>&nbsp;&nbsp;[StrongDM](https://jobo.world/company/StrongDM)
@@ -259,10 +257,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Senior/Principal Graphics Engineer ](https://jobs.ashbyhq.com/thatgamecompany/dced61b9-5a9d-4741-a7d3-79d36ec01a4a)** — _n/a_ _(posted 2025-07-01)_
 * **[Gameplay Engineer](https://jobs.ashbyhq.com/thatgamecompany/b1a491f9-fb8f-44fa-a511-818525dee8a9)** — ¤49,530 – ¤149,243 USD _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y3jvphat7o611nqzowe0.webp" width="24" height="24" alt="Thumbtack logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Thumbtack](https://jobo.world/company/Thumbtack)
-
-* **[Senior Software Engineer, Developer Experience](https://job-boards.greenhouse.io/thumbtack/jobs/7082064)** — _n/a_ _(posted 2025-07-18)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iopzw9gillqokxstabap.webp" width="24" height="24" alt="Tonal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tonal](https://jobo.world/company/Tonal)
 
 * **[Staff Backend Engineer](https://jobs.ashbyhq.com/tonal/0436c87e-4675-41ca-82bc-fc562a559710)** — _n/a_ _(posted 2025-07-03)_
@@ -270,6 +264,10 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e5cjw3xjodg2qzawu8c9.webp" width="24" height="24" alt="Trail of Bits logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trail of Bits](https://jobo.world/company/TrailofBits)
 
 * **[Senior Software Security Engineer, Research & Engineering](https://apply.workable.com/trailofbits/j/1BF5B708C2/)** — ¤10,000 USD _(posted 2025-05-16)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygnclnukk5vq4h7jcssi.webp" width="24" height="24" alt="TrueML logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrueML](https://jobo.world/company/TrueML)
+
+* **[Sr. Engineer I, Middleware](https://jobs.lever.co/trueml/1c6d829d-1a10-46e0-bc49-82111748fdec)** — ¤43,199 – ¤51,839 USD _(posted 2025-04-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cuchkrif4lug5jl6kmai.webp" width="24" height="24" alt="Virtru logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Virtru](https://jobo.world/company/Virtru)
 
@@ -279,14 +277,14 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Senior .NET Engineer](https://jobs.ashbyhq.com/virtuous/c130c45a-49b8-431e-a1c3-60a3cec98e0b)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/epuo7wxgp7crcehnqvcm.webp" width="24" height="24" alt="Voya Financial logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Voya Financial](https://jobo.world/company/VoyaFinancial)
+
+* **[Microsoft .Net Software Developer](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Software-Developer_JR0026583)** — _n/a_ _(posted 2025-04-23)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pbktsgrj360jmwi2ajpt.webp" width="24" height="24" alt="Waabi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Waabi](https://jobo.world/company/Waabi)
 
 * **[PnP Optimization Engineer](https://jobs.lever.co/waabi/c846ad95-f241-4506-ac85-a8faee9a9624)** — ¤158,000 – ¤269,000 USD _(posted 2025-07-11)_
 * **[Senior / Staff Software Engineer, Simulation Platform](https://jobs.lever.co/waabi/98adc020-0aa7-4972-a3be-bd713be72fcc)** — _n/a_ _(posted 2025-02-28)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rmuhownmxnjzgpakcg3h.webp" width="24" height="24" alt="Webflow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Webflow](https://jobo.world/company/Webflow)
-
-* **[Staff Software Engineer, Developer Productivity](https://job-boards.greenhouse.io/webflow/jobs/6929034)** — ¤154,160 – ¤247,690 USD _(posted 2025-06-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pxrlzukobe9mgyw7cnlx.webp" width="24" height="24" alt="Well logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Well](https://jobo.world/company/Well)
 
@@ -300,9 +298,5 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Senior iOS Engineer](https://jobs.ashbyhq.com/zello/e9fa5143-a67f-40d3-8a29-091ce4bd009f)** — _n/a_ _(posted 2025-05-10)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rjsqqkoaiah93pvtgvwj.webp" width="24" height="24" alt="Zip logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zip](https://jobo.world/company/Zip-Co)
-
-* **[Senior Software Engineer, Developer Experience](https://jobs.ashbyhq.com/zip/e52be066-8281-4869-8e63-ef0cd63051fd)** — _n/a_ _(posted 2025-04-12)_
-
 ---
-_Updated automatically — 2025-07-22_
+_Updated automatically — 2025-07-23_
