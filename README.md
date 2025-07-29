@@ -197,6 +197,10 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Senior Software Systems Engineer - Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Senior-Software-Systems-Engineer---Autonomous-Vehicles_JR1999530)** — _n/a_ _(posted 2025-07-03)_
 * **[Senior System Software Engineer - Dynamo and Triton Inference Server](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Senior-System-Software-Engineer---Dynamo-and-Triton-Inference-Server_JR1998435)** — _n/a_ _(posted 2025-06-06)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vcxvyg0udy2sdtvqajhr.webp" width="24" height="24" alt="OneSignal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OneSignal](https://jobo.world/company/OneSignal)
+
+* **[Senior Software Engineer, Core Services (Backend)](https://job-boards.greenhouse.io/onesignal/jobs/4584880006)** — _n/a_ _(posted 2025-07-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d2yjlpuizwrhcwryx5uj.webp" width="24" height="24" alt="Panopto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Panopto](https://jobo.world/company/Panopto)
 
 * **[Join Our Talent Community: Junior Developer](https://jobs.lever.co/panopto/6c83944c-5b6a-4528-bc41-b4166caabc90)** — _n/a_ _(posted 2025-02-21)_
@@ -212,10 +216,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtpksjlzjjnextpxet98.webp" width="24" height="24" alt="PlayStation Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PlayStation Global](https://jobo.world/company/PlayStation-Global)
 
 * **[Lead Engineer, Mobile Performance](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5499154004)** — _n/a_ _(posted 2025-06-19)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
-
-* **[Developer Support Engineer ](https://jobs.ashbyhq.com/privy/ae753507-3c0f-40f5-9779-0d6035dee941)** — _n/a_ _(posted 2025-04-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/g2xzgj0faw190v6ckrip.webp" width="24" height="24" alt="Sagent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sagent](https://jobo.world/company/Sagent)
 
@@ -293,4 +293,4 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Senior iOS Engineer](https://jobs.ashbyhq.com/zello/e9fa5143-a67f-40d3-8a29-091ce4bd009f)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-07-28_
+_Updated automatically — 2025-07-29_
