@@ -15,10 +15,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Software Engineer, Platform](https://jobs.ashbyhq.com/aerovect/041ae29d-2731-4c7c-8f3f-7974f0ac01dc)** — _n/a_ _(posted 2025-07-16)_
 * **[Software Engineer, Localization, Calibration & Mapping](https://jobs.ashbyhq.com/aerovect/73a42f00-af59-4439-8ff5-531b7c355745)** — _n/a_ _(posted 2025-07-16)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
-
-* **[Senior Software Engineer, Backend (Batch Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/6618078003)** — _n/a_ _(posted 2025-07-03)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tuwtrdzblludpzeyje1f.webp" width="24" height="24" alt="Alchemy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alchemy](https://jobo.world/company/Alchemy)
 
 * **[Principal Software Engineer](https://job-boards.greenhouse.io/alchemy/jobs/4326841005)** — _n/a_ _(posted 2025-05-09)_
@@ -31,7 +27,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdhnl2gwcg6rtvdfwtqv.webp" width="24" height="24" alt="Bonterra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bonterra](https://jobo.world/company/Bonterra)
 
 * **[EA-Software Engineer](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/EA-Software-Engineer_R2025-0245-1)** — _n/a_ _(posted 2025-07-24)_
-* **[EA-Software Engineer](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/EA-Software-Engineer_R2025-0224)** — _n/a_ _(posted 2025-06-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
@@ -108,6 +103,7 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rkvadkpjcebsbg2fjdtk.webp" width="24" height="24" alt="General Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Motors](https://jobo.world/company/General-Motors)
 
+* **[Staff Software Engineer](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Staff-Software-Engineer_JR-202512007-1)** — _n/a_ _(posted 2025-07-30)_
 * **[Principal Engineer, Autonomy Interface Software](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Principal-Engineer--Autonomy-Interface-Software_JR-202511082)** — _n/a_ _(posted 2025-07-24)_
 * **[Senior Software Engineer, AI Solutions](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---New-York/Senior-Software-Engineer--AI-Solutions_JR-202511095)** — _n/a_ _(posted 2025-07-08)_
 * **[Sr. Machine Learning Engineer](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Sr-Machine-Learning-Engineer_JR-202511059)** — ¤158,642 – ¤220,000 USD _(posted 2025-06-27)_
@@ -227,6 +223,7 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
 
 * **[Lead Software Engineer, Navigation and Behavior Planning](https://jobs.ashbyhq.com/serverobotics/ac5f55e2-ce4d-4aec-ac98-d2ca16484f8f)** — ¤150,000 – ¤200,000 USD _(posted 2025-07-22)_
+* **[Sr. Robotics Engineer, Mapping & Localization](https://jobs.ashbyhq.com/serverobotics/6f257ca7-93f4-4f2f-a80a-40ee3bc04b56)** — ¤119,000 – ¤160,000 USD _(posted 2025-07-10)_
 * **[Sr. Sustaining Firmware Engineer](https://jobs.ashbyhq.com/serverobotics/3e887bca-5664-4102-96ff-289b97a8695e)** — ¤140,000 – ¤170,000 USD _(posted 2025-06-07)_
 * **[Software Engineer, Build & Developer Tools](https://jobs.ashbyhq.com/serverobotics/fae11e4e-f9f6-4cae-8400-fe7235811971)** — ¤130,000 – ¤170,000 USD _(posted 2025-03-12)_
 
@@ -269,6 +266,10 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Sr. Engineer I, Middleware](https://jobs.lever.co/trueml/1c6d829d-1a10-46e0-bc49-82111748fdec)** — ¤43,199 – ¤51,839 USD _(posted 2025-04-16)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ptuq8bmeadcras6mz8tu.webp" width="24" height="24" alt="Verinext logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Verinext](https://jobo.world/company/Verinext)
+
+* **[Full Stack .NET Developer](https://apply.workable.com/verinext/j/A42D7854C9/)** — _n/a_ _(posted 2025-06-11)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cuchkrif4lug5jl6kmai.webp" width="24" height="24" alt="Virtru logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Virtru](https://jobo.world/company/Virtru)
 
 * **[Senior Software Engineer](https://job-boards.greenhouse.io/virtru/jobs/4572939005)** — _n/a_ _(posted 2025-06-05)_
@@ -294,9 +295,5 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Senior Software Engineer](https://jobs.lever.co/workwave/d9bdbd48-8102-498f-bc7f-7c05f080f024)** — _n/a_ _(posted 2025-07-15)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ecvymxjtb9ov636cclzd.webp" width="24" height="24" alt="Zello logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zello](https://jobo.world/company/Zello)
-
-* **[Senior iOS Engineer](https://jobs.ashbyhq.com/zello/e9fa5143-a67f-40d3-8a29-091ce4bd009f)** — _n/a_ _(posted 2025-05-10)_
-
 ---
-_Updated automatically — 2025-07-31_
+_Updated automatically — 2025-08-01_
