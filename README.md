@@ -10,6 +10,10 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Senior Developer Relations Engineer](https://jobs.ashbyhq.com/0g/1e6c2970-6acd-451b-a227-42163d02dc29)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xrhzpur0rgprhnivjeq9.webp" width="24" height="24" alt="1Password logo" style="vertical-align:middle"/>&nbsp;&nbsp;[1Password](https://jobo.world/company/1Password)
+
+* **[Senior Developer (Windows), Product Security](https://jobs.ashbyhq.com/1password/9927d342-d8b4-4b1f-ad68-574532e361c0)** — _n/a_ _(posted 2025-08-01)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bkz2yoeagkblnit7do7g.webp" width="24" height="24" alt="AeroVect logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AeroVect](https://jobo.world/company/AeroVect)
 
 * **[Software Engineer, Platform](https://jobs.ashbyhq.com/aerovect/041ae29d-2731-4c7c-8f3f-7974f0ac01dc)** — _n/a_ _(posted 2025-07-16)_
@@ -28,10 +32,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[EA-Software Engineer](https://bonterra.wd1.myworkdayjobs.com/bonterratech/job/Remote-United-States/EA-Software-Engineer_R2025-0245-1)** — _n/a_ _(posted 2025-07-24)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
-
-* **[Senior Full Stack Engineer](https://boards.greenhouse.io/calendly/jobs/7967935002)** — _n/a_ _(posted 2025-04-23)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/id82rffdtflzgytga1hv.webp" width="24" height="24" alt="Chronosphere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chronosphere](https://jobo.world/company/Chronosphere)
 
 * **[Member of Technical Staff - Cloud Infrastructure](https://jobs.ashbyhq.com/chronospherejobs/3e3cad7d-436a-4bcb-aa92-fa60e26d3c09)** — ¤200,000 – ¤250,000 USD _(posted 2025-07-24)_
@@ -41,10 +41,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Senior Software Engineer - C# (Ingrations)](https://job-boards.greenhouse.io/clickhouse/jobs/5575860004)** — _n/a_ _(posted 2025-07-02)_
 * **[Site Reliability Engineer - Core C++ Team](https://job-boards.greenhouse.io/clickhouse/jobs/5561985004)** — _n/a_ _(posted 2025-06-12)_
 * **[Core Software Engineer (C++) - Remote](https://job-boards.greenhouse.io/clickhouse/jobs/5494136004)** — _n/a_ _(posted 2025-04-04)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xauolcu0ycnihp0pf12l.webp" width="24" height="24" alt="Coder logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coder](https://jobo.world/company/Coder)
-
-* **[Senior Software Engineer (AI Tools)](https://jobs.ashbyhq.com/coder/99358b53-e235-421e-8315-4ed73cbd1f03)** — ¤127,000 – ¤218,000 USD _(posted 2025-06-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/waipgepcsalq2dll3eq1.webp" width="24" height="24" alt="Cohere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cohere](https://jobo.world/company/Cohere)
 
@@ -56,6 +52,7 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Sr. Engineer II - Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Engineer-II---Sensor--Remote-_R24055)** — _n/a_ _(posted 2025-07-31)_
 * **[Engineer III - Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Engineer-III---Sensor--Remote-_R24107)** — _n/a_ _(posted 2025-07-28)_
 * **[Sr. Software Engineer - Linux Sensor, EPP Product (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer---Linux-Sensor--EPP-Product--Remote-_R23841)** — _n/a_ _(posted 2025-07-11)_
 * **[SDET III, Windows Sensor (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/SDET-III--Windows-Sensor--Remote-_R23865)** — _n/a_ _(posted 2025-07-11)_
@@ -89,6 +86,7 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
+* **[Senior Software Engineer, Autonomous Systems](https://jobs.ashbyhq.com/flock%20safety/0c957a6e-162f-4574-9058-262c2c00874a)** — ¤170,000 – ¤200,000 USD _(posted 2025-08-01)_
 * **[Senior Embedded Machine Learning Engineer ](https://jobs.ashbyhq.com/flock%20safety/01421c1a-657d-4451-ae26-1220ea21bf6e)** — ¤175,000 – ¤200,000 USD _(posted 2025-07-30)_
 * **[Senior Software Engineer, Cellular ](https://jobs.ashbyhq.com/flock%20safety/c51e26f5-af4c-41f7-9103-ab4f5f5f6dd2)** — ¤149,600 – ¤187,000 USD _(posted 2025-07-23)_
 * **[Senior Software Engineer, Wireless Networking and Streaming ](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fad398eb6-cc22-448a-a692-c1c116469c3d)** — ¤149,600 – ¤187,000 USD _(posted 2025-07-22)_
@@ -106,7 +104,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Staff Software Engineer](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Staff-Software-Engineer_JR-202512007-1)** — _n/a_ _(posted 2025-07-30)_
 * **[Principal Engineer, Autonomy Interface Software](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Principal-Engineer--Autonomy-Interface-Software_JR-202511082)** — _n/a_ _(posted 2025-07-24)_
 * **[Senior Software Engineer, AI Solutions](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---New-York/Senior-Software-Engineer--AI-Solutions_JR-202511095)** — _n/a_ _(posted 2025-07-08)_
-* **[Sr. Machine Learning Engineer](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Sr-Machine-Learning-Engineer_JR-202511059)** — ¤158,642 – ¤220,000 USD _(posted 2025-06-27)_
 * **[Staff Embedded Software Engineer, Platform](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Staff-Embedded-Software-Engineer--Platform_JR-202501030)** — _n/a_ _(posted 2025-06-12)_
 * **[Senior Software Engineer - Machine Learning](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Senior-Software-Engineer---Machine-Learning_JR-202507991)** — _n/a_ _(posted 2025-05-24)_
 
@@ -173,6 +170,7 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 * **[Senior Video Software Engineer ](https://jobs.ashbyhq.com/mux/ffe2dbdf-6745-4bfb-be92-b30eac6327ec)** — ¤200,000 – ¤225,000 USD _(posted 2025-07-15)_
 * **[Video Software Engineer  ](https://jobs.ashbyhq.com/mux/edd4bf7f-0bcc-411c-958e-703c7a752fe6)** — ¤188,000 – ¤200,000 USD _(posted 2025-07-15)_
+* **[Senior Software Engineer - Distributed Systems](https://jobs.ashbyhq.com/mux/13951b3a-fc15-466c-8677-bddb800a311f)** — ¤200,000 – ¤225,000 USD _(posted 2025-07-15)_
 * **[Video Software Engineer (Mid - Staff Level)](https://boards.greenhouse.io/mux/jobs/7627235002)** — _n/a_ _(posted 2025-03-14)_
 * **[Software Engineer - Distributed Systems (Mid-Staff Level)](https://boards.greenhouse.io/mux/jobs/7431906002)** — _n/a_ _(posted 2025-03-14)_
 
@@ -191,10 +189,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Software Engineer, CUDA-Q Libraries](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Software-Engineer--CUDA-Q-Libraries_JR1999918)** — _n/a_ _(posted 2025-07-11)_
 * **[Senior Software Systems Engineer - Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Senior-Software-Systems-Engineer---Autonomous-Vehicles_JR1999530)** — _n/a_ _(posted 2025-07-03)_
 * **[Senior System Software Engineer - Dynamo and Triton Inference Server](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Senior-System-Software-Engineer---Dynamo-and-Triton-Inference-Server_JR1998435)** — _n/a_ _(posted 2025-06-06)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vcxvyg0udy2sdtvqajhr.webp" width="24" height="24" alt="OneSignal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OneSignal](https://jobo.world/company/OneSignal)
-
-* **[Senior Software Engineer, Core Services (Backend)](https://job-boards.greenhouse.io/onesignal/jobs/4584880006)** — _n/a_ _(posted 2025-07-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d2yjlpuizwrhcwryx5uj.webp" width="24" height="24" alt="Panopto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Panopto](https://jobo.world/company/Panopto)
 
@@ -223,7 +217,6 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
 
 * **[Lead Software Engineer, Navigation and Behavior Planning](https://jobs.ashbyhq.com/serverobotics/ac5f55e2-ce4d-4aec-ac98-d2ca16484f8f)** — ¤150,000 – ¤200,000 USD _(posted 2025-07-22)_
-* **[Sr. Robotics Engineer, Mapping & Localization](https://jobs.ashbyhq.com/serverobotics/6f257ca7-93f4-4f2f-a80a-40ee3bc04b56)** — ¤119,000 – ¤160,000 USD _(posted 2025-07-10)_
 * **[Sr. Sustaining Firmware Engineer](https://jobs.ashbyhq.com/serverobotics/3e887bca-5664-4102-96ff-289b97a8695e)** — ¤140,000 – ¤170,000 USD _(posted 2025-06-07)_
 * **[Software Engineer, Build & Developer Tools](https://jobs.ashbyhq.com/serverobotics/fae11e4e-f9f6-4cae-8400-fe7235811971)** — ¤130,000 – ¤170,000 USD _(posted 2025-03-12)_
 
@@ -276,6 +269,7 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ear5vw8exhnxr7ggu4s5.webp" width="24" height="24" alt="Virtuous logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Virtuous](https://jobo.world/company/VirtuousCRM)
 
+* **[Site Reliability Engineer (.Net)](https://jobs.ashbyhq.com/virtuous/f52b7a56-14d7-4f92-b2df-5d1660d04d6f)** — _n/a_ _(posted 2025-08-01)_
 * **[Senior .NET Engineer](https://jobs.ashbyhq.com/virtuous/c130c45a-49b8-431e-a1c3-60a3cec98e0b)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/epuo7wxgp7crcehnqvcm.webp" width="24" height="24" alt="Voya Financial logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Voya Financial](https://jobo.world/company/VoyaFinancial)
@@ -296,4 +290,4 @@ Browse a wide range of remote .NET Developer positions available globally. New j
 * **[Senior Software Engineer](https://jobs.lever.co/workwave/d9bdbd48-8102-498f-bc7f-7c05f080f024)** — _n/a_ _(posted 2025-07-15)_
 
 ---
-_Updated automatically — 2025-08-01_
+_Updated automatically — 2025-08-02_
